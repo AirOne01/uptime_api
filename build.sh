@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -t uptimeapi:latest -
+docker build -t uptimeapi:latest .
